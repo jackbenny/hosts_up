@@ -1,22 +1,75 @@
 body
 {
-background-color:#bababa;
-}
-h1
-{
-color:#28699b;
-font-family:"Arial";
-text-align:left;
-}
-p
-{
-font-family:"Arial";
-font-size:24px;
+    background-color:#bababa;
 }
 
-#middle {
+h1
+{
+    color:#28699b;
+    font-family:"Arial";
+    text-align:left;
+}
+
+p
+{
+    font-family:"Arial";
+    font-size:22px;
+}
+
+p.top
+{
+    font-family:"Arial";
+    font-size:18px;
+}
+
+p.text
+{
+    font-family:"Arial";
+    font-size:16px;
+}
+
+pre
+{
+    font-size:18px;  
+}
+
+a:link 
+{
+    text-decoration:none; 
+    color:#000000;
+}
+
+a:visited 
+{
+    text-decoration:none; 
+    color:#000000;
+}
+
+a:hover 
+{
+    text-decoration:underline; 
+    color:#000000;
+}
+
+a:active
+{
+    text-decoration:none; 
+    color:#000000;
+}
+
+#middle
+{
     position: absolute;
-    left: 40%;
+    left: 35%;
     top: 10%;
+    width:400px;
+    margin: 0px
+}
+
+#top 
+{
+    position: absolute;
+    left: 35%;
+    top: 5%
     margin: 0px
 }

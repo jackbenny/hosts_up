@@ -1,0 +1,22 @@
+body
+{
+background-color:#bababa;
+}
+h1
+{
+color:#28699b;
+font-family:"Arial";
+text-align:left;
+}
+p
+{
+font-family:"Arial";
+font-size:24px;
+}
+
+#middle {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    margin: 0px
+}

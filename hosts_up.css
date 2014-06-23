@@ -59,17 +59,18 @@ a:active
 
 #middle
 {
-    position: absolute;
-    left: 35%;
-    top: 10%;
     width:400px;
-    margin: 0px
+    margin: auto
 }
 
 #top 
 {
-    position: absolute;
-    left: 35%;
-    top: 5%
-    margin: 0px
+    width:400px;
+    margin: auto
+}
+
+hr
+{  
+    margin-left:0px;
+    width:280px;
 }
